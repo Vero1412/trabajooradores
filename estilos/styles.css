@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+  }
+ nav {background-color:#3A3D3A ;} 
+/* a:link, a:visited, a:active { */
+    /* text-decoration:none; color: #9AA59C ;   */
+   /* } */
+.ba { width: 100em;height: 50em; filter: brightness(50%); }
+.primer-texto {margin-left: 8em; margin-right: 8em ; display: inline-block; position: absolute; text-align: right;
+top: 20em; left: 50em; display: flex; align-items: center; justify-content: right; color: white; display: flex; flex-direction: column; justify-content: flex-end; }
+.titulo { margin-top: 1em; float: inline-start; text-align: center;}
+.oradores { margin: 0; padding-top: 0; font-size: 2em; font-weight: bold;}
+article { display: flex; flex-direction: row; justify-content: space-evenly;align-items: center; margin-left: 14em; margin-right: 14em;}
+section { display: inline-block; border: 1px solid #BBC2C2 ; width: 350px; display: flex; flex-direction:column;justify-content: center; }
+#steve { box-sizing: border-box; margin-right: 10px ;padding: 10px ; height: 20em; width: 20em; }
+.texto-steve { vertical-align: bottom ; width: 350px;
+    margin: 10px auto;
+    padding: 5px; }
+.Javas { font-weight: bold; background-color: #F5E118 ; border-radius: 0.2em ; border: 1px solid#F5E118 ;}    
+.react { font-weight: bold; color: white; background-color: #1A9E98 
+    ; border-radius: 0.2em ; border: 1px solid#1A9E98 ;}
+#bill { box-sizing: border-box; margin-right: 10px ;padding: 10px ; height: 20em; width: 20em;}
+.texto-bill { vertical-align: bottom; width: 350px;
+    margin: 10px auto;
+    padding: 5px; vertical-align: text-bottom;  }
+#ada { box-sizing: border-box; margin-right: 10px ;padding: 10px ; height: 20em; width: 20em; }
+.texto-ada { vertical-align: bottom; width: 350px;
+    margin: 10px auto;
+    padding: 5px;  vertical-align: text-bottom; }
+.negocios { font-weight: bold; color: white; background-color:  #7A8685  
+    ; border-radius: 0.2em ; border: 1px solid #7A8685 ;}
+.startups {font-weight: bold; color: white; background-color:  #E82424 
+    ; border-radius: 0.2em ; border: 1px solid #E82424 ;}
+.container-fluid {  box-sizing: border-box; display: flex; flex-direction: row; justify-content: center;  align-items: center;background-image: transparent; padding-left:0;border-bottom: 0%;}
+.row-0 { box-sizing: border-box; border-left: 0; margin-top: 0; padding:0;  width: 60em; height:30em;  vertical-align: middle}    
+.row-1 {box-sizing: border-box;  background-position: center; background-color: #3A3D3A; vertical-align: middle; ; color: white;margin-top: 5em; margin-left: 0.1em; margin-right: 0; margin-bottom:5em ;  padding-top: 1em; padding-left: 1em;padding-right: 0; padding-bottom: 0; width: 500em; height:30em; }
+.button {display: inline-block; background-color: transparent; color: white; border: 1px solid white; border-radius: 3px;margin-left: 2em; margin-right: 3em; }
+.titulo-final {display: flex; flex-direction: column; justify-content: center;}
+.oración {padding: 0;}
+footer {box-sizing: content-box; margin: 0%; padding-top:2em ;  padding-bottom:1em;  background-color:#104E61 ; color: white;  text-decoration:none; color: #9AA59C ;  }
+.nav-link { text-decoration:none; color:white;  }
+.text-center {padding: 0; text-align: center;border-top: 0; }
+.charla {border-bottom:2px dotted black;
+    text-decoration:none;}
+.row { display: inline-block;  display: flex; flex-direction: row; justify-content: space-evenly; align-items: center; padding-top: 0; padding-left: 20em; padding-right: 20em; padding-bottom: 3em;}
+.col { padding-left: 40em; padding-right: 45em; padding-top: 2em; padding-bottom: 2em;}
+
+
+/*  */
+/* display: flex; flex-direction: row; justify-content: flex-end; width: 100em;height: 50em; background-blend-mode:darken margin-top: 0; margin-bottom: 0; margin-right: 0 display: flex; flex-direction: row;justify-content: center; float: inline-end  box-sizing: border-box .orador { display: inline-block;  background-color: transparent; color: white;border: 1px solid white;position:absolute;
+    right: 30%;padding: 0.3em; }    
+.ticket { display: inline-block ; background-color: #0E8C2B ; color: white;border: 5px solid #0E8C2B; border-radius: 0.2em; position:absolute;
+    right: 0; }    */
+
